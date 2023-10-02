@@ -12,6 +12,25 @@
   "dependencies": {
     "cors": "^2.8.5",
     "express": "^4.17.1",
-    "socket.io": "^2.2.0"
+    "socket.io": "^2.2.0",
+    "@amap/amap-jsapi-loader": "^1.0.1",
+    "@amap/amap-jsapi-types": "0.0.8",
+    "@ant-design/icons": "^4.7.0",
+    "@jiaminghi/data-view-react": "^1.2.5",
+    "ahooks": "^2.10.5",
+    "animejs": "^3.2.1",
+    "antd": "^4.21.5",
+    "clsx": "^1.2.1",
+    "echarts": "5.2.0",
+    "echarts-gl": "2.0.8",
+    "jotai": "^1.6.4",
+    "lodash": "^4.17.21",
+    "moment": "^2.29.1",
+    "normalize.css": "^8.0.1",
+    "qss": "^2.0.3",
+    "react": "^18.2.0",
+    "react-countup": "^4.3.3",
+    "react-dom": "^18.2.0",
+    "react-router-dom": "^6.3.0"
   }
 }
